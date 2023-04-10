@@ -13,6 +13,8 @@
   - git remote add origin "ssh link": add remote
   - git push origin develop: push code to branch 'develop'
   - Link video tutorial: https://www.youtube.com/watch?v=YR5tIW_i-KI&t=498s
-4. Settings => Pages => Sources, Custom Domain => Save  
+4. Remove file .git:
+  - git rm -fr .git: use commnet git init again
+5. Settings => Pages => Sources, Custom Domain => Save  
   
   
