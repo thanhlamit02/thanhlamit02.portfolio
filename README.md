@@ -12,7 +12,7 @@
   - git commit -m "your comment here": add comments for this files
   - git remote add origin "ssh link": add remote
   - git push origin develop: push code to branch 'develop'
-  -Link video tutorial: https://www.youtube.com/watch?v=YR5tIW_i-KI&t=498s
+  - Link video tutorial: https://www.youtube.com/watch?v=YR5tIW_i-KI&t=498s
 4. Settings => Pages => Sources, Custom Domain => Save  
   
   
